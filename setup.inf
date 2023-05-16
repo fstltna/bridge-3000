@@ -1,0 +1,169 @@
+[Install1]
+
+CopyTree    = DataTree
+CopyFiles   = SetupFiles
+AddReg      = RegistryData, UninstReg1
+
+
+[UnInstall1]
+
+DelTree     = RootTree
+DelReg      = RegistryUnData
+
+
+
+[DataTree]
+
+%65600%     , "Setup"
+
+
+[SetupFiles]
+
+setup.exe
+setup.inf
+
+
+[RootTree]
+
+%65600%
+
+
+[DestinationDirs]
+
+; do not change the numeric value !
+SetupFiles    = %65600%
+
+
+[RegistryData]
+
+HKLM,%UNINS%,DisplayName,,"%PRODUCT%"
+HKLM,%UNINS%,UninstallString,,"%65600%\setup.exe -uninstall"
+HKLM,"Software\Techland\%PRODUCT%",DestinationPath,,"%65600%"
+HKLM,"Software\Techland\%PRODUCT%",SrcPath,,"..\Setup\"
+HKCU,"Software\Techland\%PRODUCT%\Settings",GuiLang,,"Polish"
+
+[RegistryUnData]
+
+HKLM,%UNINS%
+HKLM,"Software\Techland\%PRODUCT%"
+
+
+[UninstReg1]
+
+HKLM,"Software\Techland\%PRODUCT%",UninstallSection,,"UnInstall1"
+
+
+[Strings]
+
+GetSerialTitle          = "Enter the serial number"
+GetSerialError          = "Invalid serial number"  
+
+UNINS          = "Software\Microsoft\Windows\CurrentVersion\Uninstall\Bridge3000"
+PRODUCT        = "Bridge 3000"
+
+StringExit     = "Exit installation"
+StringInstall  = "Install program"  
+StringStart    = "Start program"    
+StringDirect   = "Install DirectX"  
+
+StringChangeDir         = "Installation folder:"      
+StringChangeDirDesc     = "Change installation folder"
+
+GetFolderTitle          = "Change installation folder"             
+GetFolderMsgTitle       = "Install program"                        
+GetFolderCannot         = "I can't create the folder"              
+GetFolderExists         = "The folder already exists - continue?"  
+GetFolderCancel         = "Cancel"                                 
+
+
+MsgYes                  = "Yes"
+MsgNo                   = "No"
+MsgOk                   = "Ok"
+MsgCancel               = "Cancel"
+MsgRetry                = "Retry"
+
+UnInstallAsk            = "Do you really want to remove the program from your computer?"
+UnInstallYes            = "Yes"                                                         
+UnInstallNo             = "No"                                                          
+UnInstallComplete       = "The program has been successfully removed."                  
+
+GetFolderMsgTitle       = "Install program"                      
+GetFolderCannot         = "I can't create the folder"            
+GetFolderExists         = "The folder already exists - continue?"
+GetFolderCancel         = "Cancel"                               
+
+LicenceTitle      = "License agreement"
+LicenceAgree      = "I accept"         
+LicenceDecline    = "I refuse"         
+
+MsgInstalling           = "Installing program..."  
+MsgInstallOk            = "Installation complete"  
+MsgInstallError         = "Installation error"     
+MsgInstallSpace         = "Insufficient disk space"
+MsgInstallReboot        = "Restart computer"       
+MsgInstallRebootAsk     = "Restart now?"           
+
+
+[InstallerSetup]
+
+PleaseWait        = "Please wait..."
+WindowTitle       = "Bridge 3000"
+
+BitmapMask        = "bmp\Mask.bmp"
+BitmapBack        = "bmp\Back.bmp"
+BitmapButtons     = "bmp\buttons.bmp"
+
+
+ProgressInfo      = ,,bmp\progress.bmp,313,221,,,1,0,
+
+Button1        =  302, 162, 198,  37, "%StringExit%"           ,,  0, 111, -1, -1,,, 0,  37, 0,144
+Button2        =  302,  125, 198,  37, "%StringInstall%"        ,,  0, 74, -1, -1,,, 0, 0, 0, 144
+Button3        =  3002,  1025, 1980,  307, "%StringInstall%"        ,,  7000, 74, -1, -1,,, 8000, 74, -1, -1
+Button4        =    9000,   9000,   9000,   9000, "%StringDirect%"         ,, -1, -1, -1, -1,,,
+Button5        =  -133, -123, -135,  -24, "%StringPreviews%"       ,,  0, -72, -1, -1,,, 0, 0
+
+TextColor      = 255, 255, 255, 16
+TextLine1      = 16,216,300,16
+TextLine2      = 0,0,0,0
+
+DirectXPath    = "DirectX"
+
+GetDirOn       =
+
+
+UnInstallMsgs  = "%UnInstallAsk%","%UnInstallYes%","%UnInstallNo%","%UnInstallComplete%"
+
+MsgAnswer      = "%MsgYes%","%MsgNo%","%MsgOk%","%MsgCancel%","%MsgRetry%"
+
+GetFolderMsgs  = "%GetFolderTitle%", "%GetFolderMsgTitle%", "%GetFolderCannot%", "%GetFolderExists%", "%GetFolderCancel%"
+LicenceMsgs    = "%LicenceTitle%",   "%LicenceAgree%",      "%LicenceDecline%"
+GetSerialMsgs  = "%GetSerialTitle%", "%GetSerialError%"
+
+LicenceTxt     = licence.txt
+
+Vendor         = "Techland"
+ProductKey     = "Software\Techland\%PRODUCT%"
+
+CommandLine    = "Brydz.exe"
+
+ProgramPath    = "Bridge 3000"
+DefaultPath    = "C:\Program Files\%PRODUCT%"
+
+ProgramGroup   = "Techland\%PRODUCT%"
+
+Shortcut1      = "Bridge 3000",      Brydz.exe,              ,"%PRODUCT%","%65600%\Brydz.exe"
+Shortcut2      = "Remove program", setup.exe,"-uninstall" ,"%PRODUCT%","%65600%\setup.exe"
+Shortcut3      = "Help", Brydz.hlp                    ,"%PRODUCT%","%65600%\Brydz.hlp"
+Shortcut4      = "Check IP number", IP.exe                    ,"%PRODUCT%","%65600%\IP.exe"
+
+Messages       = "%MsgInstalling%","%MsgInstallOk%","%MsgInstallError%","%MsgInstallSpace%","%MsgInstallReboot%","%MsgInstallRebootAsk%"
+
+AutoExit       = 1
+DirectXPath    = "DirectX"
+DirectXAuto    = 0
+AviDecoder     = 0
+CustomCursors  = 0
+
+Sizes          = 70,00
+
+; end of file

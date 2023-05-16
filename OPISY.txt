@@ -1,0 +1,32 @@
+[001]natural
+[002]0 or 3 aces
+[003]1 or 4 aces
+[004]0 or 3 controls
+[005]1 or 4 controls
+[006]2 controls
+[007]2 aces
+[008]2 controls 0 or 3 kings
+[009]2 controls 1 or 4 kings
+[010]2 controls 2 kings
+[011]2 aces 0 or 3 kings
+[012]2 aces 1 or 4 kings
+[013]2 aces 2 kings
+[014]0 aces
+[015]1 ace
+[016]2 aces
+[017]3 aces
+[018]4 aces
+[019]Blackwood - asking for aces
+[020]Blackwood - asking for aces (shortened)
+[021]Blackwood - asking for aces (with kings)
+[022]Blackwood - asking for aces and trump king
+[023]Blackwood - asking for aces and trump king (with kings)
+[024]Cue-bid
+[025]asking for stopper
+[026]asking for kings
+[027]0 or 3 kings
+[028]1 or 4 kings
+[029]2 kings
+[030]strong
+[031]takeout or explanatory
+[032]negative

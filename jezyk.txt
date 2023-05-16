@@ -1,0 +1,240 @@
+[001]Game
+[002]New
+[003]Network connection
+[004]Load
+[005]Save
+[006]Save as
+[007]Add local player
+[008]Start
+[009]End
+[010]Undo
+[011]To the position...
+[012]To the beginning of the bidding
+[013]To the beginning of the play
+[014]Facilitations
+[015]What to bid
+[016]I take the rest
+[017]Play automatically
+[018]Uncover the card
+[019]Player
+[020]All
+[021]Cover the cards
+[022]View
+[023]Score
+[024]View 2D
+[025]View 3D
+[026]Cards
+[027]Front
+[028]Set
+[029]Back
+[030]Card back
+[031]Colours of windows
+[032]Set
+[033]Windows
+[034]Players
+[035]Bidding history
+[036]Play history
+[037]Settings
+[038]Bidding convention
+[039]Sound
+[040]Music
+[041]Sounds
+[042]Help
+[043]Convention description
+[044]Description of the program
+[045]About the program
+[046]About the program
+[047]production management
+[048]design
+[049]programming
+[050]programming AI
+[051]graphics
+[052]music and sounds
+[053]tests
+[054]Bidding convention
+[055]system
+[056]our system
+[057]common language
+[058]negative double
+[059]up to 2 spades / 3 spades
+[060]convention 5431
+[061]inversion
+[062]opening 2 diamonds
+[063]wilkosz
+[064]weak on 6 cards
+[065]opening 2 clubs
+[066]acol
+[067]precision
+[068]shortened blackwood for 4 controls with kings
+[069]splinter
+[070]master
+[071]grand texas
+[072]drury
+[073]Uncover
+[074]Cover
+[075]Turn the cards
+[076]Up to the position
+[077]Bids
+[078]Cards
+[079]icon for selection
+[080]Personal data
+[081]Remove
+[082]Undo the bidding to the position
+[083]Bidding from the beginning
+[084]Undo the play to the position
+[085]Trick from the beginning.
+[086]Play from the beginning.
+[087]Club
+[088]Diamond
+[089]Heart
+[090]Spade
+[091]no trump
+[092]double
+[093]redouble
+[094]Play
+[095]Cancel
+[096]Game discontinued
+[097]I suggest playing %1 %2
+[098]YES
+[099]NO
+[100]Change of the bidding convention
+[101]The bidding will be resumed. Continue?
+[102]The change will be considered with the next bidding.
+[103]Continue
+[104]Leads
+[105]Takes
+[106]For overtricks
+[107]For undertricks
+[108]For unsuccessful double
+[109]For rubber
+[110]For small slam
+[111]For grand slam
+[112]For small straight
+[113]For grand straight
+[114]OK
+[115]End of rubber
+[116]Total
+[117]Next deal
+[118]Next deal
+[119]Game in progress
+[120]Do you wish to save the game result?
+[121]Exit the game
+[122]Do you really wish to exit Bridge?
+[123]Exit the game
+[124]Network connection
+[125]Bidding suggestion
+[126]I suggest bidding %1 %2
+[127]Bid
+[128]Print cards
+[129]The cards of the player %1 will be printed
+[130]Use of colours when printing?
+[131]Bridge - cards
+[132]Error when printing!!!. The game will take place in the second mode.
+[133]Cards of the player %1
+[134]Error of file read-out
+[135]Game interrupted
+[136]Network game is closed
+[137]Play automatically
+[138]A few players play at one computer
+[139]Game in two ways is possible
+[140]1. Cards of individual players will be printed
+[141]2. Players will take turns at the computer
+[142]Which way shall be used?
+[143]The first
+[144]The second
+[145]No printer installed!!!. The game will take place in the second mode.
+[146]Cannot write to file
+[147]Game interruption
+[148]Do you really wish to interrupt the game?
+[149]What to play
+[150]Start
+[151]What to bid
+[152]Contract : %1 %2 %3
+[153]Contract
+[154]bid by %1
+[155]The player %1 is the dummy
+[156]The player %1 starts the game
+[157]End of bidding
+[158]A man is a dummy
+[159]Do you wish to play instead of the computer?
+[160]The player %1 will be the dummy
+[161]The player %1 will play
+[162]Take turns at the computer
+[163]Interrupt automatic play
+[164]Players
+[165]Players %1 bid %2 %3 %4
+[166]End of game
+[167]Have taken %1 tricks
+[168]Players %1 scored %2 points
+[169]points
+[170]The player %1 will bid
+[171]Bidding
+[172]All players have passed
+[173]I take the rest
+[174]I don't agree to take other tricks
+[175]No file
+[176]No information on the network in the computer
+[177]Attempt to start the server have not succeeded
+[178]I cannot connect to the server
+;remember to use the space at end of the next line
+[179]Games on the server 
+[180]I cannot establish network connections for the local player
+[181]Games
+[182] #
+[183]Max
+[184]Error of connection with the server
+[185]Switching off the network game
+[186]Do you really wish to switch the game off?
+[187]Exit the network game
+[188]Do you really wish to exit the game?
+[189]Network connection suspended
+[190]Wrong maximum number of players (from 2 to 50)
+[191]I cannot connect the local player
+[192]Game suggestion
+[193]To many local players to play within the network
+[194]PC
+[195]Bridge 3000
+[196]Please wait
+[197]Bridge files |*.BRY
+[198]What ???
+[199]Close
+[200]Blackwood
+[201]Blackwood for 4 controls
+[202]Shortened Blackwood for 4 controls
+[203]Blackwood for 4 controls with kings
+[204]Shortened Blackwood for 5 values
+[205]Blackwood for 5 controls with kings
+[206]New game
+[207]Name of game
+[208]Max. number of players
+[209]Network play
+[210]servers
+[211]Create a server
+[212]Connection
+[213]Refresh
+[214]Refreshing time
+[215]New game
+[216]up to 3 spades
+[217]Click!
+[218]S
+[219]W
+[220]N
+[221]E
+[222]SN
+[223]WE
+[228]A
+[229]K
+[230]Q
+[231]J
+[236]NT
+[237]pass
+[238]double
+[239]redouble
+[245]Bid automatically
+[246]Interrupt automatic bidding
+[251]DBL
+[252]RDBL
+[253]NT
+[254]PASS
+[308]tricks
+[309]Copyright (c) 2001 Techland Software

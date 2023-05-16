@@ -1,0 +1,442 @@
+[000]0- 12PC
+[001]3- hearts
+[002]3- spades
+[003]4 spades, no 4 hearts
+[004]no 4 spades
+[005]4+ spades
+[006]2- hearts
+[007]3+ spades
+[008]3+ hearts
+[009]4+ hearts
+[010]0- 7PC
+[011]3- diamonds
+[012]5+ spades
+[013]Cue-bid
+[014]0- 13PC
+[015]4+ diamonds
+[016]Sharples
+[017]3- clubs
+[018]4+ clubs
+[019]no major four
+[020]14+PC
+[021]4 hearts
+[022]4- spades
+[023]4 spades
+[024]Stayman
+[025]Baron
+[026]automatic
+[027]5+ clubs
+[028]5+ diamonds
+[029]0- 9PC
+[030]6+ diamonds
+[031]transfer to hearts
+[032]Forcing Stayman
+[033]5+ hearts
+[034]transfer to spades
+[035]6- 8PC
+[036]3- spades balanced hand
+[037]transfer to diamonds
+[038]weak hand
+[039]natural
+[040]strong hand
+[041]15-18PC
+[042]15- 18PC
+[043]5- clubs
+[044]4 diamonds
+[045]4- hearts
+[046]transfer to clumbs or invite
+[047]ask for minor fours
+[048]6- 9PC
+[049]6+ clubs
+[050]13+PC
+[051]convention 5431
+[052]6+ hearts
+[053]10+PC
+[054]9- 14PC
+[055]12- 15PC
+[056]0- 6PC
+[057]12-14PC balanced hand
+[058]13-15PC balanced hand
+[059]15-17PC balanced hand
+[060]16-18PC balanced hand
+[061]15+PC
+[062]1- diamonds
+[063]1- hearts
+[064]16+PC
+[065]7- 9PC
+[066]10- 12PC
+[067] 12- 40PC
+[068]5 spades
+[069]1- clubs
+[070]12+PC
+[071]2- clubs
+[072]3+ diamonds
+[073] 12- 15PC
+[074]5+ spades
+[075]8-15 with no fit
+[076]ask 7+PC
+[077]natural with no fit 7-9PC
+[078]11- 13PC
+[079]6+ spades
+[080]14- 15PC
+[081]11-15PC suite 4+
+[082]10+PC 4+clubs 4-diamonds
+[083]10+PC 4+diamonds
+[084]12-14 PC
+[085]12-14PC
+[086]15+ PC 3+ clumbs
+[087]15+ PC 3+ diamonds
+[088]12-14PC 4+ hearts
+[089]15- 20PC
+[090]15- 17PC
+[091]10- 14PC
+[092]shortness of clubs
+[093]shortness of diamonds
+[094]shortness of hearts
+[095]15- 17PC balanced hand
+[096]18+PC balanced hand
+[097]12- 14PC balanced hand
+[098]Jacoby 2NT
+[099]No trump Baron 16+PC balanced hand
+[100]2- spades
+[101]8- 10PC
+[102]12+PC suite 6+
+[103]11- 14PC
+[104]16- 17PC
+[105]2- spades balanced hand
+[106]13- 15PC
+[107]14-15PC 3+ spades
+[108]invite 10-12PC 3+spades
+[109]Splinter
+[110]Swiss convention 4+hearts
+[111]3 controls or 2 aces
+[112]and shortness
+[113]Swiss convention 4+spades
+[114]9- 11PC
+[115]9- 12PC
+[116]4+ clubs 12-20PC
+[117]5+ spades 12-20PC
+[118] 12+PC
+[119]4+spades
+[120](possibly nice 9+PC)
+[121]11- 15PC
+[122]12- 20PC
+[123]12- 18PC
+[124]1- spades
+[125]3+ clubs
+[126]4- diamonds
+[127]5+ hearts
+[128]7-9PC natural with no fit
+[129]14+PC 3+ clubs
+[130]14+PC 3+ diamonds
+[131]8- 14PC
+[132]8-12PC
+[133]16-17 PC 4 spades
+[134]8- 15PC
+[135] 7+PC
+[136]10+PC 4+clubs 4-diamonds 3-spades
+[137]shortness of spades
+[138]invite 10-12PC 3+hearts
+[139]14-15PC 3+ hearts
+[140]12-20PC 4+ hearts
+[141]4+ hearts
+[142]weak card with no fit
+[143](no 3 cards in the partner's suite)
+[144]weak card with fit
+[145](3+ cards in the partner's suite)
+[146]strong card with no fit
+[147]strong card with fit
+[148]Master
+[149]12- 14PC
+[150]3- hearts balanced hand
+[151]6-9 PC balanced hand
+[152]7- 10PC
+[153]12- 16PC
+[154]4+ clubs
+[155]4+ diamonds
+[156]14-16PC with no fit
+[157]18- 19PC balanced hand
+[158]18+PC
+[159]17- 20PC
+[160]5+ diamonds
+[161]15-17PC 4 hearts
+[162]18- 19PC
+[163]17+PC hand 5422
+[164]7+PC 4+ hearts
+[165]6- 10PC
+[166]5- 8PC
+[167]15-17PC 4 spades
+[168]7+PC
+[169]8-15PC
+[170]10+PC 5+ clubs or 16+PC 2+ clubs
+[171]4 clubs
+[172]4- clubs
+[173]18-20PC balanced hand
+[174]9-12PC balanced hand no major 4
+[175]14+PC 5+hearts
+[176]10-12PC balanced hand
+[177]No trump Baron
+[178]5- diamonds
+[179]14+PC 5+spades
+[180]5- 9PC
+[181]12-18PC 5+diamonds, or hand 4-4-4-1
+[182]lub 5 clubs 4 diamonds
+[183]4+ diamonds 12-20PC
+[184]2+ diamonds 11-15PC
+[185]12-21PC 5+diamonds, or hand 4-4-4-1
+[186]12+PC 3+diamonds
+[187]transfer test
+[188]0- 3PC
+[189]11- 17PC
+[190]3+hearts
+[191]16- 21PC
+[192]3- 5PC
+[193]3+PC
+[194]0- 5PC
+[195]3- diamonds balanced hand
+[196]3+spades
+[197]18- 20PC
+[198]4- spades balanced hand
+[199]0-2PC lub 5 hearts
+[200]5- spades
+[201]forsing to the played
+[202]4+PC
+[203]22+PC
+[204]21- 22PC
+[205]19-21PC balanced hand
+[206]24-26PC balanced hand
+[207]negative or balanced hand 16+PC
+[208]7+PC 4+diamonds
+[209]negative
+[210]16- 19PC
+[211]inversion (strong question)
+[212]20+PC
+[213]19+PC
+[214]8+PC
+[215]7+PC 4+ hearts
+[216]21+PC
+[217]0- 20PC
+[218]8-10PC balanced hand
+[219]5-8PC balanced hand
+[220]7-9PC balanced hand
+[221]6+PC
+[222]17+PC
+[223]8- 11PC
+[224]10+PC 5+diamonds
+[225]no shortness
+[226]0- 17PC
+[227]4- 7PC
+[228]No trump Baron 16+PC
+[229]11-13PC balanced hand
+[230]20- 22PC
+[231]23- 25PC
+[232]0- 19PC
+[233]3- 7PC
+[234]7+ clubs
+[235]7+ diamonds
+[236]19-21PC (or 21PC with fit)
+[237]22- 25PC
+[238]0- 18PC
+[239]7+ hearts
+[240]19- 21PC
+[241]7+ spades
+[242]ambiguous
+[243]15+ PC balanced hand
+[244]or 12-20 5+ clubs
+[245]12-14 or 18-22 PC
+[246]balanced hand or 12-20 5+ clubs
+[247]3+clubs
+[248]automatic 24+PC
+[249]automatic 20-23PC
+[250]automatic 24+PC no fit
+[251]automatic 24+PC with fit
+[252]Flint's Convention
+[253]22- 23PC
+[254]balanced hand
+[255]19- 23PC
+[256]singleton in clubs
+[257]singleton in diamonds
+[258]singleton in hearts
+[259]no singleton, maximum
+[260]no singleton, minimum
+[261]ask for shortness
+[262]5- 10PC
+[263]6 spades
+[264]5- hearts
+[265]singleton in spades
+[266]4- clumbs
+[267]4- diamonds
+[268]3- spades
+[269]3+ hearts to the partner's longer
+[270]6- 11PC
+[271]ask for the hand
+[272]ask for the strength
+[273]24+PC
+[274]clubs and major
+[275]5 clubs 1 diamonds 4 hearts 3 spades
+[276]ask for the strength
+[277]hearts and diamonds
+[278]5 clubs 1 diamonds 4 spades 3 hearts
+[279]spades and hearts
+[280]4+ clubs
+[281]4441 with shortness diamonds
+[282]spades and diamonds
+[283]5440 with shortness diamonds
+[284]3+ spades to the partner's longer
+[285]0- 11PC
+[286]invite with fit in the major
+[287]block with fit in the major
+[288]11-40PC 4+ spades
+[289]select the major
+[290]0- 10PC
+[291]6 diamonds
+[292]Wilkosz
+[293]Precision 11-15PC
+[294]keeping in diamonds and hearts
+[295]keeping in spades and hearts
+[296]keeping in spades and diamonds
+[297]ask for keeping
+[298]6+ clubs,
+[299]stops in 2 suites
+[300]keeping of hearts
+[301]keeping of diamonds
+[302]keeping of spades
+[303]0- 15PC
+[304]6+ nice clubs
+[305]11- 12PC
+[306]Precision 10-15PC
+[307]Acol
+[308]weak to the suite
+[309]17- 19PC
+[310]20- 27PC
+[311]20+PC balanced hand
+[312]28+PC
+[313]12- 19PC balanced hand
+[314]Gambling without outside stoper
+[315]25- 27PC
+[316]24- 26PC
+[317]25+PC
+[318]10+PC 5+ clubs
+[319]11- 20PC
+[320]4+ diamonds 11-20PC
+[321]3+ clubs 11-20PC
+[322]6-12PC no other bid
+[323]6+PC 4+diamonds
+[324]strong
+[325]14+PC 6+hearts
+[326]14+PC 6+spades
+[327]10+PC 4+diamonds no major 4
+[328]6-9PC 4+diamonds
+[329]9-11PC 6+clubs, or 12+PC
+[330]12-14PC 4+ diamonds
+[331]15+PC 4 hearts
+[332]natural with no fit 7-11PC
+[333]14+PC 6+ spades
+[334]14+PC suite 6+
+[335]12-18 PC 5+4+ on minors
+[336]11+PC suite 5+, or 9-11PC suite 6+
+[337]11+PC suite 4+, or 9-11PC suite 6+
+[338]15-17PC
+[339]5+ clubs 4 hearts
+[340]5+ clubs 4 spades
+[341]4-7PC 4+hearts
+[342]4-7PC 4+spades
+[343]12+PC 5 hearts
+[344]12+PC 4+ diamonds
+[345]20- 21PC
+[346]6-10PC balanced hand
+[347]6+PC 4+ hearts
+[348]11+PC
+[349]0-9PC 5+hearts shortness
+[350]0-9PC 5+spades shortness
+[351]10+PC 4+clubs
+[352]natural with no fit 6-9PC
+[353]natural with no fit 6-11PC
+[354]9+PC
+[355]12+PC 4,5+clubs
+[356]12+PC 4,5+diamonds
+[357]ask 6+ PC
+[358]ask 6+PC
+[359]4+ hearts 6+PC
+[360]6-9PC balanced hand
+[361]5- 11PC
+[362]13+PC 4+clubs
+[363]13+PC 4+diamonds
+[364]13+PC 4+hearts
+[365]13+PC 4+diamonds 3-spades
+[366]11- 13PC balanced hand
+[367]16+PC suite 4 diamonds
+[368]12-14PC 4+ clubs
+[369]16- 20PC
+[370]4+diamonds
+[371]4+clumbs
+[372]suite 4+ 11-15PC
+[373]6+clubs 2- hearts 3-spades
+[374]6+clubs 2- spades
+[375]8- 9PC
+[376]16- 18PC
+[377]5+ hearts no honours
+[378]5 hearts one honour
+[379]5 hearts two honours
+[380]6+ hearts one honour
+[381]6+ hearts two honours
+[382]5+ hearts three honours
+[383]5+ spades no honours
+[384]5 spades one honour
+[385]5 spades two honours
+[386]6+ spades one honour
+[387]6+ spades two honours
+[388]5+ spades three honours
+[389]4+ spades 12-20PC
+[390]10- 15PC
+[391]13- 17PC
+[392]5- 12PC
+[393]13+PC balanced hand
+[394]12- 13PC
+[395]24+PC with fit
+[396]24+PC no fit
+[397]10- 11PC
+[398]2- diamonds
+[399]3 diamonds
+[400]4 spades, no 4 hearts 10+PC
+[401]4 spades, no 4 hearts 13+PC
+[402]18- 21PC
+[403]6+ hearts weak
+[404]12-15PC 4 spades
+[405]12-15PC 4 hearts
+[406]5 hearts
+[407]natural 7-15PC
+[408]natural 12-14PC
+[409]natural 13-15PC
+[410]natural 15-17PC
+[411]natural 16-18PC
+[412]10-15PC
+[413]natural 6-10PC suite 6 diamonds
+[414]Precision
+[415]6 hearts
+[416]natural 21-40PC
+[417]natural 24-26PC
+[418]natural 20-22PC
+[419]natural 19-22PC
+[420]23+PC
+[421]5+ clubs 4 major 9-15PC
+[422]5+ minor 4 spades 9-15PC
+[423]Michaels Cue-bid
+[424]7- 15PC
+[425]7 spades
+[426]9- 15PC
+[427]4+clumbs 5+major 8-15
+[428]4+diamonds 5+major 8-15
+[429]0- 8PC
+[430]9+PC 4 spades shortness of heart
+[431]9+PC 4 spades no keeping of hearts
+[432]9+PC 4 spades no keeping of hearts
+[433]6-8PC 5+ clubs
+[434]Lebensohl
+[435]9+PC 4hearts keeping of spades
+[436]9+PC 4hearts no keeping of spades
+[437]5+ minor 4 hearts 9-15PC
+[438]diamonds
+[439]
+[440]8- 12PC
+[441]8-15PC 5 minor 4 major

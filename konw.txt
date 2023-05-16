@@ -1,0 +1,90 @@
+the comment is every line, which does not start with the brace
+
+
+[000]Bidding convention
+[001]System
+[002]Common Language
+[003]Our System
+[004]Kaplan-Scheinwold
+[005]Precision
+[006]Acol
+[007]Two over One
+[008]Standard American
+[009]Bridge World Standard
+[010]ACBL Yellow Card
+[011]Natural system
+
+[012]Openings
+[013]Strength of 1 no trump
+[014]weak
+[015]strong
+[016]Opening on the level of 2
+[017]Opening on the level of 3
+[018]Opening 2 clubs
+[019]natural
+[020]Acol
+[021]Precision
+[022]Opening 2 diamonds
+[023]Wilkosz
+[024]Opening 3 no trump
+[025]Gambling
+[026]Bidding after natural opening with no trump
+[027]Transfers
+[028]Transfers into minor suits
+[029]Grand Texas
+[030]Bidding after opening 1 with no trump
+[031]Response 2 clubs
+[032]Stayman
+[033]Baron
+[034]Sharples Convention
+[035]Convention 5431
+[036]Forcing Stayman
+[037]Bidding after opening of 2NT
+[038]Response 3 clubs
+[039]Flint's convention
+[040]Bidding after opening of 1 into major
+[041]Response 2 no trump
+[042]natural
+[043]Baron
+[044]Jacoby
+[045]Swiss convention
+[046]Splinter
+[047]After preparatory opening 1 clubs
+[048]Master
+[049]Bilateral bidding
+[050]Takeout double
+[051]Explanatory double
+[052]Entering with the suite on the level of 1
+[053]with five
+[054]with four
+[055]Opening 1 no trump after opening
+[056]double-suit
+[057]1 diamond, 1 heart or 1 spade
+[058]Opening with the suite after 1 NT
+[059]Michaels Cuebid 
+[060]Lebensohl
+[061]The opponent suite as a request to stop
+[062]Negative double
+[063]Up to 2 spades
+[064]Up to 3 spades
+[065]Slam zone
+[066]Cue-bids
+[067]Blackwood
+[068]None
+[069]For 4 controls
+[070]Shortened for 4 controls
+[071]For 4 controls with kings
+[072]For 5 controls
+[073]For 5 controls with kings
+[074]Hoyt's convention
+[075]Cancel
+[076]Original settings
+[077]Openings
+[078]After no trump
+[079]After opening 1 into the suite
+[080]Bilateral bidding
+[081]Slam zone
+[082]12-14PC
+[083]13-15PC
+[084]15-17PC
+[085]16-18PC
